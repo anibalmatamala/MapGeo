@@ -1,0 +1,13 @@
+#universidad{
+    width: 200px;
+    height: 75px;
+ 
+}
+#rollo{
+    position: absolute; /**/
+    margin-left: 100px;
+    top: 130px; /**/
+    left: 150px; /**/
+    opacity: .15;  /**/
+    z-index: -1; /**/
+}
